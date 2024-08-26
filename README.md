@@ -10,3 +10,7 @@ I'm a junior developer with a passion for building web applications using React.
 ## 🌱 Currently Learning
 - Advanced React concepts
 - Backend basics with Node.js
+
+ ![](https://github-readme-stats.vercel.app/api?username=inshutisouvede&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=inshutisouvede&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inshutisouvedetheme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact
